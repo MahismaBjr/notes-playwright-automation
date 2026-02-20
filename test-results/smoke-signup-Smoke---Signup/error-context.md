@@ -1,0 +1,115 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "PMP Practice" [ref=e4] [cursor=pointer]:
+      - /url: https://pmp.expandtesting.com/
+    - text: "| Free PMP Certification Mock Exam Test +900 Questions & Quizzes"
+    - link "Software Testing courses" [ref=e5] [cursor=pointer]:
+      - img [ref=e7]
+      - text: Software Testing courses
+  - banner [ref=e10]:
+    - navigation "Main navigation" [ref=e11]:
+      - link "SUT" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e13]'
+        - text: Practice
+      - generic [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - button "Demos" [ref=e17] [cursor=pointer]
+          - listitem [ref=e18]:
+            - link "Tools" [ref=e19] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e20]:
+            - link "Tips" [ref=e21] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e22]:
+            - link "Test Cases" [ref=e23] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e24]:
+            - link "API Testing" [ref=e25] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e28] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e29]:
+    - insertion [ref=e33]:
+      - generic [ref=e36]:
+        - heading "These are topics related to the article that might interest you" [level=2] [ref=e38]: Discover more
+        - link "Development Tools" [ref=e39] [cursor=pointer]:
+          - generic "Development Tools" [ref=e40]
+          - img [ref=e42]
+        - link "Programming" [ref=e44] [cursor=pointer]:
+          - generic "Programming" [ref=e45]
+          - img [ref=e47]
+        - link "Computers & Electronics" [ref=e49] [cursor=pointer]:
+          - generic "Computers & Electronics" [ref=e50]
+          - img [ref=e52]
+    - paragraph [ref=e55]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e56] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e60]:
+      - navigation "breadcrumb mb-2" [ref=e61]:
+        - list [ref=e62]:
+          - listitem [ref=e63]:
+            - link "Practice" [ref=e64] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e65]:
+            - text: /
+            - link "Home - My Notes - The App for Automation Testing Practice" [ref=e66] [cursor=pointer]:
+              - /url: /notes/app/
+      - generic [ref=e70]:
+        - navigation [ref=e73]:
+          - generic [ref=e74]:
+            - link "MyNotes" [ref=e75] [cursor=pointer]:
+              - /url: /notes/app/
+              - img [ref=e76]
+              - text: MyNotes
+            - list [ref=e85]:
+              - listitem [ref=e86]:
+                - link "Profile" [ref=e87] [cursor=pointer]:
+                  - /url: /notes/app/profile
+              - listitem [ref=e88]:
+                - button "Logout" [ref=e89] [cursor=pointer]
+        - generic [ref=e91]:
+          - generic [ref=e97]:
+            - textbox "Search notes..." [ref=e98]
+            - button "Search" [ref=e99] [cursor=pointer]
+          - generic [ref=e100]:
+            - generic [ref=e102]:
+              - button "All" [ref=e103] [cursor=pointer]
+              - button "Home•" [ref=e104] [cursor=pointer]
+              - button "Work•" [ref=e105] [cursor=pointer]
+              - button "Personal•" [ref=e106] [cursor=pointer]
+            - button "+ Add Note" [ref=e108] [cursor=pointer]
+          - generic [ref=e112]:
+            - heading "You don't have any notes in all categories" [level=4] [ref=e113]
+            - img "You don't have any notes in all categories" [ref=e114]
+  - insertion [ref=e116]:
+    - generic [ref=e119]:
+      - heading "These are topics related to the article that might interest you" [level=2] [ref=e121]: Discover more
+      - link "Test" [ref=e122] [cursor=pointer]:
+        - generic "Test" [ref=e123]
+        - img [ref=e125]
+      - link "User interface" [ref=e127] [cursor=pointer]:
+        - generic "User interface" [ref=e128]
+        - img [ref=e130]
+      - link "Apps" [ref=e132] [cursor=pointer]:
+        - generic "Apps" [ref=e133]
+        - img [ref=e135]
+  - contentinfo [ref=e137]:
+    - generic [ref=e142]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e143]
+      - paragraph [ref=e144]:
+        - text: "Version: e64cd80e | Copyright"
+        - link "Expand Testing" [ref=e145] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2026"
+  - img [ref=e147] [cursor=pointer]
+```

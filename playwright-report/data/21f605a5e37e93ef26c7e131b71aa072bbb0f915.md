@@ -1,0 +1,116 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "PMP Practice" [ref=e4] [cursor=pointer]:
+      - /url: https://pmp.expandtesting.com/
+    - text: "| Free PMP Certification Mock Exam Test +900 Questions & Quizzes"
+    - link "Software Testing courses" [ref=e5] [cursor=pointer]:
+      - img [ref=e7]
+      - text: Software Testing courses
+  - banner [ref=e10]:
+    - navigation "Main navigation" [ref=e11]:
+      - link "SUT" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e13]'
+        - text: Practice
+      - generic [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - button "Demos" [ref=e17] [cursor=pointer]
+          - listitem [ref=e18]:
+            - link "Tools" [ref=e19] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e20]:
+            - link "Tips" [ref=e21] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e22]:
+            - link "Test Cases" [ref=e23] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e24]:
+            - link "API Testing" [ref=e25] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e28] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e29]:
+    - paragraph [ref=e34]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e35] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e39]:
+      - navigation "breadcrumb mb-2" [ref=e40]:
+        - list [ref=e41]:
+          - listitem [ref=e42]:
+            - link "Practice" [ref=e43] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e44]:
+            - text: /
+            - link "Home - My Notes - The App for Automation Testing Practice" [ref=e45] [cursor=pointer]:
+              - /url: /notes/app/
+      - generic [ref=e49]:
+        - navigation [ref=e52]:
+          - generic [ref=e53]:
+            - link "MyNotes" [ref=e54] [cursor=pointer]:
+              - /url: /notes/app/
+              - img [ref=e55]
+              - text: MyNotes
+            - list [ref=e64]:
+              - listitem [ref=e65]:
+                - link "Profile" [ref=e66] [cursor=pointer]:
+                  - /url: /notes/app/profile
+              - listitem [ref=e67]:
+                - button "Logout" [ref=e68] [cursor=pointer]
+        - generic [ref=e70]:
+          - generic [ref=e76]:
+            - textbox "Search notes..." [ref=e77]
+            - button "Search" [ref=e78] [cursor=pointer]
+          - generic [ref=e79]:
+            - generic [ref=e81]:
+              - button "All" [ref=e82] [cursor=pointer]
+              - button "Home•" [ref=e83] [cursor=pointer]
+              - button "Work•" [ref=e84] [cursor=pointer]
+              - button "Personal•" [ref=e85] [cursor=pointer]
+            - button "+ Add Note" [ref=e87] [cursor=pointer]
+          - dialog [ref=e88]:
+            - generic [ref=e89]:
+              - generic [ref=e90]:
+                - generic [ref=e91]: Add new note
+                - button "Close" [ref=e92] [cursor=pointer]
+              - generic [ref=e93]:
+                - generic [ref=e94]:
+                  - generic [ref=e95]:
+                    - generic [ref=e96]: "Category:"
+                    - combobox "Category:" [ref=e97]:
+                      - option "Home" [selected]
+                      - option "Work"
+                      - option "Personal"
+                  - generic [ref=e99]:
+                    - checkbox "Completed" [ref=e100]
+                    - generic [ref=e101]: Completed
+                  - generic [ref=e102]:
+                    - generic [ref=e103]: "Title:"
+                    - textbox "Title:" [ref=e104]: Note To Delete
+                  - generic [ref=e105]:
+                    - generic [ref=e106]: "Description:"
+                    - textbox "Description:" [active] [ref=e107]: Delete me
+                - generic [ref=e108]:
+                  - button "Create" [ref=e109] [cursor=pointer]
+                  - button "Cancel" [ref=e110] [cursor=pointer]
+          - generic [ref=e114]:
+            - heading "You don't have any notes in all categories" [level=4] [ref=e115]
+            - img "You don't have any notes in all categories" [ref=e116]
+  - contentinfo [ref=e117]:
+    - generic [ref=e122]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e123]
+      - paragraph [ref=e124]:
+        - text: "Version: e64cd80e | Copyright"
+        - link "Expand Testing" [ref=e125] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2026"
+  - img [ref=e127] [cursor=pointer]
+```

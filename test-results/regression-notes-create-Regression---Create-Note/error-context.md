@@ -1,0 +1,176 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "PMP Practice" [ref=e4] [cursor=pointer]:
+      - /url: https://pmp.expandtesting.com/
+    - text: "| Free PMP Certification Mock Exam"
+    - link "Test" [ref=e5] [cursor=pointer]:
+      - /url: "#"
+      - img [ref=e6]
+      - text: Test
+    - text: +900 Questions & Quizzes
+    - link "Mock Exam Questions" [ref=e8] [cursor=pointer]:
+      - img [ref=e10]
+      - text: Mock Exam Questions
+  - banner [ref=e13]:
+    - navigation "Main navigation" [ref=e14]:
+      - link "SUT" [ref=e15] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e16]'
+        - text: Practice
+      - generic [ref=e17]:
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - button "Demos" [ref=e20] [cursor=pointer]
+          - listitem [ref=e21]:
+            - link "Tools" [ref=e22] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e23]:
+            - link "Tips" [ref=e24] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e25]:
+            - link "Test Cases" [ref=e26] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e27]:
+            - link "API Testing" [ref=e28] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e29]:
+            - link "About" [ref=e30] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e31] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e32]:
+    - paragraph [ref=e37]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e38] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e39]:
+      - insertion [ref=e41]:
+        - generic [ref=e44]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e46]: Discover more
+          - link "UI" [ref=e47] [cursor=pointer]:
+            - generic "UI" [ref=e48]
+            - img [ref=e50]
+          - link "Apps" [ref=e52] [cursor=pointer]:
+            - generic "Apps" [ref=e53]
+            - img [ref=e55]
+          - link "Test Automation" [ref=e57] [cursor=pointer]:
+            - generic "Test Automation" [ref=e58]
+            - img [ref=e60]
+          - link "Test" [ref=e62] [cursor=pointer]:
+            - generic "Test" [ref=e63]
+            - img [ref=e65]
+          - link "Testing" [ref=e67] [cursor=pointer]:
+            - generic "Testing" [ref=e68]
+            - img [ref=e70]
+          - link "App" [ref=e72] [cursor=pointer]:
+            - generic "App" [ref=e73]
+            - img [ref=e75]
+          - link "Automation Testing" [ref=e77] [cursor=pointer]:
+            - generic "Automation Testing" [ref=e78]
+            - img [ref=e80]
+          - link "APIs" [ref=e82] [cursor=pointer]:
+            - generic "APIs" [ref=e83]
+            - img [ref=e85]
+      - generic [ref=e89]:
+        - navigation "breadcrumb mb-2" [ref=e90]:
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - link "Practice" [ref=e93] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e94]:
+              - text: /
+              - link "Home - My Notes - The App for Automation Testing Practice" [ref=e95] [cursor=pointer]:
+                - /url: /notes/app/
+        - generic [ref=e99]:
+          - navigation [ref=e102]:
+            - generic [ref=e103]:
+              - link "MyNotes" [ref=e104] [cursor=pointer]:
+                - /url: /notes/app/
+                - img [ref=e105]
+                - text: MyNotes
+              - list [ref=e114]:
+                - listitem [ref=e115]:
+                  - link "Profile" [ref=e116] [cursor=pointer]:
+                    - /url: /notes/app/profile
+                - listitem [ref=e117]:
+                  - button "Logout" [ref=e118] [cursor=pointer]
+          - generic [ref=e120]:
+            - generic [ref=e126]:
+              - textbox "Search notes..." [ref=e127]
+              - button "Search" [ref=e128] [cursor=pointer]
+            - generic [ref=e129]:
+              - generic [ref=e131]:
+                - button "All" [ref=e132] [cursor=pointer]
+                - button "Home•" [ref=e133] [cursor=pointer]
+                - button "Work•" [ref=e134] [cursor=pointer]
+                - button "Personal•" [ref=e135] [cursor=pointer]
+              - button "+ Add Note" [ref=e137] [cursor=pointer]
+            - dialog [ref=e138]:
+              - generic [ref=e139]:
+                - generic [ref=e140]:
+                  - generic [ref=e141]: Add new note
+                  - button "Close" [ref=e142] [cursor=pointer]
+                - generic [ref=e143]:
+                  - generic [ref=e144]:
+                    - generic [ref=e145]:
+                      - generic [ref=e146]: "Category:"
+                      - combobox "Category:" [ref=e147]:
+                        - option "Home" [selected]
+                        - option "Work"
+                        - option "Personal"
+                    - generic [ref=e149]:
+                      - checkbox "Completed" [ref=e150]
+                      - generic [ref=e151]: Completed
+                    - generic [ref=e152]:
+                      - generic [ref=e153]: "Title:"
+                      - textbox "Title:" [ref=e154]: Automation Create Note
+                    - generic [ref=e155]:
+                      - generic [ref=e156]: "Description:"
+                      - textbox "Description:" [active] [ref=e157]: Created via Playwright
+                  - generic [ref=e158]:
+                    - button "Create" [ref=e159] [cursor=pointer]
+                    - button "Cancel" [ref=e160] [cursor=pointer]
+            - generic [ref=e164]:
+              - heading "You don't have any notes in all categories" [level=4] [ref=e165]
+              - img "You don't have any notes in all categories" [ref=e166]
+      - insertion [ref=e168]:
+        - generic [ref=e171]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e173]: Discover more
+          - link "Software Testing" [ref=e174] [cursor=pointer]:
+            - generic "Software Testing" [ref=e175]
+            - img [ref=e177]
+          - link "app" [ref=e179] [cursor=pointer]:
+            - generic "app" [ref=e180]
+            - img [ref=e182]
+          - link "Application software" [ref=e184] [cursor=pointer]:
+            - generic "Application software" [ref=e185]
+            - img [ref=e187]
+          - link "Test automation" [ref=e189] [cursor=pointer]:
+            - generic "Test automation" [ref=e190]
+            - img [ref=e192]
+          - link "Application programming interface" [ref=e194] [cursor=pointer]:
+            - generic "Application programming interface" [ref=e195]
+            - img [ref=e197]
+          - link "User interface" [ref=e199] [cursor=pointer]:
+            - generic "User interface" [ref=e200]
+            - img [ref=e202]
+          - link "API" [ref=e204] [cursor=pointer]:
+            - generic "API" [ref=e205]
+            - img [ref=e207]
+          - link "Playwright" [ref=e209] [cursor=pointer]:
+            - generic "Playwright" [ref=e210]
+            - img [ref=e212]
+  - contentinfo [ref=e214]:
+    - generic [ref=e219]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e220]
+      - paragraph [ref=e221]:
+        - text: "Version: e64cd80e | Copyright"
+        - link "Expand Testing" [ref=e222] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2026"
+  - img [ref=e224] [cursor=pointer]
+```
