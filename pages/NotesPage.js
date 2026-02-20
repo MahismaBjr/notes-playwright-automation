@@ -5,13 +5,15 @@ export class NotesPage {
     this.title = page.locator('#title');
     this.description = page.locator('#description');
     this.category = page.locator('#category');
-    this.saveBtn = page.getByRole('button', { name: /save/i });
-    this.editBtn = page.getByRole('button', { name: 'Edit' }).first();
-    this.deleteBtn = page.getByRole('button', { name: 'Delete' }).first();
+    this.createBtn = page.getByRole('button', { name: /create/i });
+    this.editBtn = page.getByRole('button', { name: /save/i });
+    this.firstEditBtn = page.getByRole('button', { name: 'Edit' }).first();
+    this.firstDeleteBtn = page.getByRole('button', { name: 'Delete' }).first();
+    this.deleteBtn = page.locator('[data-testid="note-delete-confirm"]');
   }
 
   async waitForNotesPage() {
-    await this.page.goto('/notes/app');
+    await this.page.waitForURL('**/notes/app');
     await this.addNoteBtn.waitFor({ state: 'visible' });
   }
 
@@ -20,16 +22,17 @@ export class NotesPage {
     await this.title.fill(title);
     await this.description.fill(description);
     await this.category.selectOption(category);
-    await this.saveBtn.click();
+    await this.createBtn.click();
   }
 
   async updateFirstNote(newTitle) {
-    await this.editBtn.click();
+    await this.firstEditBtn.click();
     await this.title.fill(newTitle);
-    await this.saveBtn.click();
+    await this.editBtn.click();
   }
 
   async deleteFirstNote() {
+    await this.firstDeleteBtn.click();
     await this.deleteBtn.click();
   }
 }

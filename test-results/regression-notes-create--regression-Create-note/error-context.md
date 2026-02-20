@@ -1,0 +1,199 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "PMP Practice" [ref=e4] [cursor=pointer]:
+      - /url: https://pmp.expandtesting.com/
+    - text: "| Free PMP Certification Mock Exam Test +900 Questions & Quizzes"
+    - link "Software Testing courses" [ref=e5] [cursor=pointer]:
+      - img [ref=e7]
+      - text: Software Testing courses
+  - banner [ref=e10]:
+    - navigation "Main navigation" [ref=e11]:
+      - link "SUT" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e13]'
+        - text: Practice
+      - generic [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - button "Demos" [ref=e17] [cursor=pointer]
+          - listitem [ref=e18]:
+            - link "Tools" [ref=e19] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e20]:
+            - link "Tips" [ref=e21] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e22]:
+            - link "Test Cases" [ref=e23] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e24]:
+            - link "API Testing" [ref=e25] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e28] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e29]:
+    - insertion [ref=e33]:
+      - iframe [ref=e35]:
+        - generic [active] [ref=f17e1]:
+          - generic [ref=f17e6]:
+            - link [ref=f17e7] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CpZg6O4eYad-MGdjx4dkP4ai0mAHsrsizhQGV3vXxoBX35-rckg4QASCVlJmjAWCN3LEFoAG0_f7pAsgBCagDAcgDywSqBJICT9BUAsT38IY6K6T0ryPBbKBZ7LBNf6Dlm4t0vmCnjWwKTPBjDGj5gOcr7wIH5d94HA5kV6QWZkQODXfYVaSqMkeJiRDSQvM3EbXdHDM0Ft_Zxqs8f3wYN9gvx09RCJY2GtLYxoW3PH5972frxngLoBOnTKozY-_lFQPU7RJemXdMnd2TnujPbsLX7eTWELEiKAdmUJVbZKQHDS8VXm0BfcORuEyHN7CK32vhdDpDX0RbAlEnIM3iYmLg23oFNi32KuOIfLtmMA8k5AGvw28Vn9wSUEea4pVoCX7iU3WjSnXZPINUR0GiFNY80H1b-Iz688BxIGryzOOa1kV1drqpGFHfjFhjWp46byzzvgRt7QYG5cAE2tezmrAFiAXtwvTNVqAGLoAHtIKBlgGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlia6eeruuiSA7EJq2I-ctrBmmKACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAk5QyA0B6g0TCL-Z6au66JIDFdh4OAUdYRQNE_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjQ5NzAyMTIyMjG6FwI4AaoYFwkAAAAAcM4HQRIKNDk3MDIxMjIyMRgBshgJEgKVahguIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE&num=1&cid=CAQSqwEA56J1eY1wWXIqN_0ji5ngQ35o0EpStHp63cc5VNq9gKx0u96fr7D1gpJ9EBXvOKMrrEEqozcpZsrwKeXdwlatwidxMe3yQCz3GfqSxrBZk3KJpLhYg5l-a8l7XpOpPWFjB83xG1Ond49iIMxHp6yhFxt7ubDqfbSSbG-Hd0GDJaS_eovpHgXhpjEaEO-5xJeJwIi19rWh61E1LlQst8t7d9tGbU_hmBaG3VAYAQ&sig=AOD64_3o76hSZV02J_xXrPPQyqdfRwacPA&client=ca-pub-1056034821646296&rf=1&nb=9&adurl=https://rumble.com/v73lz0o-live-dr-disrespect-arc-raiders-karma-has-a-name.html%3Fe9s%3Dsrc_v1_sa%252Csrc_v3_sa_o%252Csrc_v1_ucp_a%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Drumble_google_web_tier2_pmax_traffic_gaming%26utm_content%3Dpmax%26utm_term%3Ddoc_arc1%26gad_source%3D5%26gad_campaignid%3D23248839021%26gclid%3DEAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE
+              - img [ref=f17e8]
+            - generic [ref=f17e10]:
+              - generic [ref=f17e13]:
+                - link "No One Can Take on the Doc" [ref=f17e16] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CpZg6O4eYad-MGdjx4dkP4ai0mAHsrsizhQGV3vXxoBX35-rckg4QASCVlJmjAWCN3LEFoAG0_f7pAsgBCagDAcgDywSqBJICT9BUAsT38IY6K6T0ryPBbKBZ7LBNf6Dlm4t0vmCnjWwKTPBjDGj5gOcr7wIH5d94HA5kV6QWZkQODXfYVaSqMkeJiRDSQvM3EbXdHDM0Ft_Zxqs8f3wYN9gvx09RCJY2GtLYxoW3PH5972frxngLoBOnTKozY-_lFQPU7RJemXdMnd2TnujPbsLX7eTWELEiKAdmUJVbZKQHDS8VXm0BfcORuEyHN7CK32vhdDpDX0RbAlEnIM3iYmLg23oFNi32KuOIfLtmMA8k5AGvw28Vn9wSUEea4pVoCX7iU3WjSnXZPINUR0GiFNY80H1b-Iz688BxIGryzOOa1kV1drqpGFHfjFhjWp46byzzvgRt7QYG5cAE2tezmrAFiAXtwvTNVqAGLoAHtIKBlgGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlia6eeruuiSA7EJq2I-ctrBmmKACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAk5QyA0B6g0TCL-Z6au66JIDFdh4OAUdYRQNE_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjQ5NzAyMTIyMjG6FwI4AaoYFwkAAAAAcM4HQRIKNDk3MDIxMjIyMRgBshgJEgKVahguIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE&num=1&cid=CAQSqwEA56J1eY1wWXIqN_0ji5ngQ35o0EpStHp63cc5VNq9gKx0u96fr7D1gpJ9EBXvOKMrrEEqozcpZsrwKeXdwlatwidxMe3yQCz3GfqSxrBZk3KJpLhYg5l-a8l7XpOpPWFjB83xG1Ond49iIMxHp6yhFxt7ubDqfbSSbG-Hd0GDJaS_eovpHgXhpjEaEO-5xJeJwIi19rWh61E1LlQst8t7d9tGbU_hmBaG3VAYAQ&sig=AOD64_3o76hSZV02J_xXrPPQyqdfRwacPA&client=ca-pub-1056034821646296&rf=1&nb=0&adurl=https://rumble.com/v73lz0o-live-dr-disrespect-arc-raiders-karma-has-a-name.html%3Fe9s%3Dsrc_v1_sa%252Csrc_v3_sa_o%252Csrc_v1_ucp_a%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Drumble_google_web_tier2_pmax_traffic_gaming%26utm_content%3Dpmax%26utm_term%3Ddoc_arc1%26gad_source%3D5%26gad_campaignid%3D23248839021%26gclid%3DEAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE
+                - 'link "Rumble: The Best in Gaming Livestreams. Arc Raiders Content from the Doc Himself" [ref=f17e19] [cursor=pointer]':
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CpZg6O4eYad-MGdjx4dkP4ai0mAHsrsizhQGV3vXxoBX35-rckg4QASCVlJmjAWCN3LEFoAG0_f7pAsgBCagDAcgDywSqBJICT9BUAsT38IY6K6T0ryPBbKBZ7LBNf6Dlm4t0vmCnjWwKTPBjDGj5gOcr7wIH5d94HA5kV6QWZkQODXfYVaSqMkeJiRDSQvM3EbXdHDM0Ft_Zxqs8f3wYN9gvx09RCJY2GtLYxoW3PH5972frxngLoBOnTKozY-_lFQPU7RJemXdMnd2TnujPbsLX7eTWELEiKAdmUJVbZKQHDS8VXm0BfcORuEyHN7CK32vhdDpDX0RbAlEnIM3iYmLg23oFNi32KuOIfLtmMA8k5AGvw28Vn9wSUEea4pVoCX7iU3WjSnXZPINUR0GiFNY80H1b-Iz688BxIGryzOOa1kV1drqpGFHfjFhjWp46byzzvgRt7QYG5cAE2tezmrAFiAXtwvTNVqAGLoAHtIKBlgGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlia6eeruuiSA7EJq2I-ctrBmmKACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAk5QyA0B6g0TCL-Z6au66JIDFdh4OAUdYRQNE_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjQ5NzAyMTIyMjG6FwI4AaoYFwkAAAAAcM4HQRIKNDk3MDIxMjIyMRgBshgJEgKVahguIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE&num=1&cid=CAQSqwEA56J1eY1wWXIqN_0ji5ngQ35o0EpStHp63cc5VNq9gKx0u96fr7D1gpJ9EBXvOKMrrEEqozcpZsrwKeXdwlatwidxMe3yQCz3GfqSxrBZk3KJpLhYg5l-a8l7XpOpPWFjB83xG1Ond49iIMxHp6yhFxt7ubDqfbSSbG-Hd0GDJaS_eovpHgXhpjEaEO-5xJeJwIi19rWh61E1LlQst8t7d9tGbU_hmBaG3VAYAQ&sig=AOD64_3o76hSZV02J_xXrPPQyqdfRwacPA&client=ca-pub-1056034821646296&rf=1&nb=7&adurl=https://rumble.com/v73lz0o-live-dr-disrespect-arc-raiders-karma-has-a-name.html%3Fe9s%3Dsrc_v1_sa%252Csrc_v3_sa_o%252Csrc_v1_ucp_a%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Drumble_google_web_tier2_pmax_traffic_gaming%26utm_content%3Dpmax%26utm_term%3Ddoc_arc1%26gad_source%3D5%26gad_campaignid%3D23248839021%26gclid%3DEAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE
+                  - text: "Rumble: The Best in Gaming Livestreams. Arc Raiders Content from the Doc"
+                  - text: Himself
+              - generic [ref=f17e22]:
+                - link:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CpZg6O4eYad-MGdjx4dkP4ai0mAHsrsizhQGV3vXxoBX35-rckg4QASCVlJmjAWCN3LEFoAG0_f7pAsgBCagDAcgDywSqBJICT9BUAsT38IY6K6T0ryPBbKBZ7LBNf6Dlm4t0vmCnjWwKTPBjDGj5gOcr7wIH5d94HA5kV6QWZkQODXfYVaSqMkeJiRDSQvM3EbXdHDM0Ft_Zxqs8f3wYN9gvx09RCJY2GtLYxoW3PH5972frxngLoBOnTKozY-_lFQPU7RJemXdMnd2TnujPbsLX7eTWELEiKAdmUJVbZKQHDS8VXm0BfcORuEyHN7CK32vhdDpDX0RbAlEnIM3iYmLg23oFNi32KuOIfLtmMA8k5AGvw28Vn9wSUEea4pVoCX7iU3WjSnXZPINUR0GiFNY80H1b-Iz688BxIGryzOOa1kV1drqpGFHfjFhjWp46byzzvgRt7QYG5cAE2tezmrAFiAXtwvTNVqAGLoAHtIKBlgGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlia6eeruuiSA7EJq2I-ctrBmmKACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAk5QyA0B6g0TCL-Z6au66JIDFdh4OAUdYRQNE_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjQ5NzAyMTIyMjG6FwI4AaoYFwkAAAAAcM4HQRIKNDk3MDIxMjIyMRgBshgJEgKVahguIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE&num=1&cid=CAQSqwEA56J1eY1wWXIqN_0ji5ngQ35o0EpStHp63cc5VNq9gKx0u96fr7D1gpJ9EBXvOKMrrEEqozcpZsrwKeXdwlatwidxMe3yQCz3GfqSxrBZk3KJpLhYg5l-a8l7XpOpPWFjB83xG1Ond49iIMxHp6yhFxt7ubDqfbSSbG-Hd0GDJaS_eovpHgXhpjEaEO-5xJeJwIi19rWh61E1LlQst8t7d9tGbU_hmBaG3VAYAQ&sig=AOD64_3o76hSZV02J_xXrPPQyqdfRwacPA&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://rumble.com/v73lz0o-live-dr-disrespect-arc-raiders-karma-has-a-name.html%3Fe9s%3Dsrc_v1_sa%252Csrc_v3_sa_o%252Csrc_v1_ucp_a%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Drumble_google_web_tier2_pmax_traffic_gaming%26utm_content%3Dpmax%26utm_term%3Ddoc_arc1%26gad_source%3D5%26gad_campaignid%3D23248839021%26gclid%3DEAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE
+                - link "Rumble" [ref=f17e24] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CpZg6O4eYad-MGdjx4dkP4ai0mAHsrsizhQGV3vXxoBX35-rckg4QASCVlJmjAWCN3LEFoAG0_f7pAsgBCagDAcgDywSqBJICT9BUAsT38IY6K6T0ryPBbKBZ7LBNf6Dlm4t0vmCnjWwKTPBjDGj5gOcr7wIH5d94HA5kV6QWZkQODXfYVaSqMkeJiRDSQvM3EbXdHDM0Ft_Zxqs8f3wYN9gvx09RCJY2GtLYxoW3PH5972frxngLoBOnTKozY-_lFQPU7RJemXdMnd2TnujPbsLX7eTWELEiKAdmUJVbZKQHDS8VXm0BfcORuEyHN7CK32vhdDpDX0RbAlEnIM3iYmLg23oFNi32KuOIfLtmMA8k5AGvw28Vn9wSUEea4pVoCX7iU3WjSnXZPINUR0GiFNY80H1b-Iz688BxIGryzOOa1kV1drqpGFHfjFhjWp46byzzvgRt7QYG5cAE2tezmrAFiAXtwvTNVqAGLoAHtIKBlgGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlia6eeruuiSA7EJq2I-ctrBmmKACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAk5QyA0B6g0TCL-Z6au66JIDFdh4OAUdYRQNE_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjQ5NzAyMTIyMjG6FwI4AaoYFwkAAAAAcM4HQRIKNDk3MDIxMjIyMRgBshgJEgKVahguIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE&num=1&cid=CAQSqwEA56J1eY1wWXIqN_0ji5ngQ35o0EpStHp63cc5VNq9gKx0u96fr7D1gpJ9EBXvOKMrrEEqozcpZsrwKeXdwlatwidxMe3yQCz3GfqSxrBZk3KJpLhYg5l-a8l7XpOpPWFjB83xG1Ond49iIMxHp6yhFxt7ubDqfbSSbG-Hd0GDJaS_eovpHgXhpjEaEO-5xJeJwIi19rWh61E1LlQst8t7d9tGbU_hmBaG3VAYAQ&sig=AOD64_3o76hSZV02J_xXrPPQyqdfRwacPA&client=ca-pub-1056034821646296&rf=1&nb=1&adurl=https://rumble.com/v73lz0o-live-dr-disrespect-arc-raiders-karma-has-a-name.html%3Fe9s%3Dsrc_v1_sa%252Csrc_v3_sa_o%252Csrc_v1_ucp_a%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Drumble_google_web_tier2_pmax_traffic_gaming%26utm_content%3Dpmax%26utm_term%3Ddoc_arc1%26gad_source%3D5%26gad_campaignid%3D23248839021%26gclid%3DEAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE
+                - link "Open" [ref=f17e26] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CpZg6O4eYad-MGdjx4dkP4ai0mAHsrsizhQGV3vXxoBX35-rckg4QASCVlJmjAWCN3LEFoAG0_f7pAsgBCagDAcgDywSqBJICT9BUAsT38IY6K6T0ryPBbKBZ7LBNf6Dlm4t0vmCnjWwKTPBjDGj5gOcr7wIH5d94HA5kV6QWZkQODXfYVaSqMkeJiRDSQvM3EbXdHDM0Ft_Zxqs8f3wYN9gvx09RCJY2GtLYxoW3PH5972frxngLoBOnTKozY-_lFQPU7RJemXdMnd2TnujPbsLX7eTWELEiKAdmUJVbZKQHDS8VXm0BfcORuEyHN7CK32vhdDpDX0RbAlEnIM3iYmLg23oFNi32KuOIfLtmMA8k5AGvw28Vn9wSUEea4pVoCX7iU3WjSnXZPINUR0GiFNY80H1b-Iz688BxIGryzOOa1kV1drqpGFHfjFhjWp46byzzvgRt7QYG5cAE2tezmrAFiAXtwvTNVqAGLoAHtIKBlgGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlia6eeruuiSA7EJq2I-ctrBmmKACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAk5QyA0B6g0TCL-Z6au66JIDFdh4OAUdYRQNE_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjQ5NzAyMTIyMjG6FwI4AaoYFwkAAAAAcM4HQRIKNDk3MDIxMjIyMRgBshgJEgKVahguIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE&num=1&cid=CAQSqwEA56J1eY1wWXIqN_0ji5ngQ35o0EpStHp63cc5VNq9gKx0u96fr7D1gpJ9EBXvOKMrrEEqozcpZsrwKeXdwlatwidxMe3yQCz3GfqSxrBZk3KJpLhYg5l-a8l7XpOpPWFjB83xG1Ond49iIMxHp6yhFxt7ubDqfbSSbG-Hd0GDJaS_eovpHgXhpjEaEO-5xJeJwIi19rWh61E1LlQst8t7d9tGbU_hmBaG3VAYAQ&sig=AOD64_3o76hSZV02J_xXrPPQyqdfRwacPA&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://rumble.com/v73lz0o-live-dr-disrespect-arc-raiders-karma-has-a-name.html%3Fe9s%3Dsrc_v1_sa%252Csrc_v3_sa_o%252Csrc_v1_ucp_a%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Drumble_google_web_tier2_pmax_traffic_gaming%26utm_content%3Dpmax%26utm_term%3Ddoc_arc1%26gad_source%3D5%26gad_campaignid%3D23248839021%26gclid%3DEAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE
+                - link [ref=f17e27] [cursor=pointer]:
+                  - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=CpZg6O4eYad-MGdjx4dkP4ai0mAHsrsizhQGV3vXxoBX35-rckg4QASCVlJmjAWCN3LEFoAG0_f7pAsgBCagDAcgDywSqBJICT9BUAsT38IY6K6T0ryPBbKBZ7LBNf6Dlm4t0vmCnjWwKTPBjDGj5gOcr7wIH5d94HA5kV6QWZkQODXfYVaSqMkeJiRDSQvM3EbXdHDM0Ft_Zxqs8f3wYN9gvx09RCJY2GtLYxoW3PH5972frxngLoBOnTKozY-_lFQPU7RJemXdMnd2TnujPbsLX7eTWELEiKAdmUJVbZKQHDS8VXm0BfcORuEyHN7CK32vhdDpDX0RbAlEnIM3iYmLg23oFNi32KuOIfLtmMA8k5AGvw28Vn9wSUEea4pVoCX7iU3WjSnXZPINUR0GiFNY80H1b-Iz688BxIGryzOOa1kV1drqpGFHfjFhjWp46byzzvgRt7QYG5cAE2tezmrAFiAXtwvTNVqAGLoAHtIKBlgGoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwDSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlia6eeruuiSA7EJq2I-ctrBmmKACgGYCwHICwGADAGiDAsqBgoE1tqxApABAaoNAk5QyA0B6g0TCL-Z6au66JIDFdh4OAUdYRQNE_ANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcOGAEqCjQ5NzAyMTIyMjG6FwI4AaoYFwkAAAAAcM4HQRIKNDk3MDIxMjIyMRgBshgJEgKVahguIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE&num=1&cid=CAQSqwEA56J1eY1wWXIqN_0ji5ngQ35o0EpStHp63cc5VNq9gKx0u96fr7D1gpJ9EBXvOKMrrEEqozcpZsrwKeXdwlatwidxMe3yQCz3GfqSxrBZk3KJpLhYg5l-a8l7XpOpPWFjB83xG1Ond49iIMxHp6yhFxt7ubDqfbSSbG-Hd0GDJaS_eovpHgXhpjEaEO-5xJeJwIi19rWh61E1LlQst8t7d9tGbU_hmBaG3VAYAQ&sig=AOD64_3o76hSZV02J_xXrPPQyqdfRwacPA&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://rumble.com/v73lz0o-live-dr-disrespect-arc-raiders-karma-has-a-name.html%3Fe9s%3Dsrc_v1_sa%252Csrc_v3_sa_o%252Csrc_v1_ucp_a%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Drumble_google_web_tier2_pmax_traffic_gaming%26utm_content%3Dpmax%26utm_term%3Ddoc_arc1%26gad_source%3D5%26gad_campaignid%3D23248839021%26gclid%3DEAIaIQobChMIn5bpq7rokgMV2Hg4BR1hFA0TEAEYASAAEgKysvD_BwE
+                  - generic [ref=f17e28]:
+                    - img [ref=f17e29]
+                    - img [ref=f17e31]
+          - img [ref=f17e39] [cursor=pointer]
+          - button [ref=f17e41] [cursor=pointer]:
+            - img [ref=f17e42]
+          - iframe
+    - paragraph [ref=e37]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e38] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e39]:
+      - insertion [ref=e41]:
+        - generic [ref=e44]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e46]: Discover more
+          - link "Test automation" [ref=e47] [cursor=pointer]:
+            - generic "Test automation" [ref=e48]
+            - img [ref=e50]
+          - link "Application software" [ref=e52] [cursor=pointer]:
+            - generic "Application software" [ref=e53]
+            - img [ref=e55]
+          - link "Test Automation" [ref=e57] [cursor=pointer]:
+            - generic "Test Automation" [ref=e58]
+            - img [ref=e60]
+          - link "Software Testing" [ref=e62] [cursor=pointer]:
+            - generic "Software Testing" [ref=e63]
+            - img [ref=e65]
+          - link "app" [ref=e67] [cursor=pointer]:
+            - generic "app" [ref=e68]
+            - img [ref=e70]
+          - link "Automation Testing" [ref=e72] [cursor=pointer]:
+            - generic "Automation Testing" [ref=e73]
+            - img [ref=e75]
+          - link "Application programming interface" [ref=e77] [cursor=pointer]:
+            - generic "Application programming interface" [ref=e78]
+            - img [ref=e80]
+          - link "User interface" [ref=e82] [cursor=pointer]:
+            - generic "User interface" [ref=e83]
+            - img [ref=e85]
+      - generic [ref=e89]:
+        - navigation "breadcrumb mb-2" [ref=e90]:
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - link "Practice" [ref=e93] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e94]:
+              - text: /
+              - link "Home - My Notes - The App for Automation Testing Practice" [ref=e95] [cursor=pointer]:
+                - /url: /notes/app/
+        - generic [ref=e99]:
+          - navigation [ref=e102]:
+            - generic [ref=e103]:
+              - link "MyNotes" [ref=e104] [cursor=pointer]:
+                - /url: /notes/app/
+                - img [ref=e105]
+                - text: MyNotes
+              - list [ref=e114]:
+                - listitem [ref=e115]:
+                  - link "Profile" [ref=e116] [cursor=pointer]:
+                    - /url: /notes/app/profile
+                - listitem [ref=e117]:
+                  - button "Logout" [ref=e118] [cursor=pointer]
+          - generic [ref=e120]:
+            - generic [ref=e126]:
+              - textbox "Search notes..." [ref=e127]
+              - button "Search" [ref=e128] [cursor=pointer]
+            - generic [ref=e129]:
+              - generic [ref=e131]:
+                - button "All" [ref=e132] [cursor=pointer]
+                - button "Home•" [ref=e133] [cursor=pointer]
+                - button "Work•" [ref=e134] [cursor=pointer]
+                - button "Personal•" [ref=e135] [cursor=pointer]
+              - button "+ Add Note" [ref=e137] [cursor=pointer]
+            - generic [ref=e140]: You have 0/1 notes completed in the all categories
+            - generic [ref=e143]:
+              - generic [ref=e144]: Updated Title
+              - generic [ref=e145]:
+                - paragraph [ref=e146]: Created via UI
+                - paragraph [ref=e147]: February 20, 2026 at 16:08:40
+              - generic [ref=e148]:
+                - checkbox [ref=e149]
+                - generic [ref=e150]:
+                  - link "View" [ref=e151] [cursor=pointer]:
+                    - /url: /notes/app/notes/699887010dcebe0296f2da9b
+                  - button "Edit" [ref=e152] [cursor=pointer]
+                  - button "Delete" [ref=e153] [cursor=pointer]
+      - insertion [ref=e155]:
+        - generic [ref=e158]:
+          - heading "These are topics related to the article that might interest you" [level=2] [ref=e160]: Discover more
+          - link "Apps" [ref=e161] [cursor=pointer]:
+            - generic "Apps" [ref=e162]
+            - img [ref=e164]
+          - link "App" [ref=e166] [cursor=pointer]:
+            - generic "App" [ref=e167]
+            - img [ref=e169]
+          - link "UI" [ref=e171] [cursor=pointer]:
+            - generic "UI" [ref=e172]
+            - img [ref=e174]
+          - link "APIs" [ref=e176] [cursor=pointer]:
+            - generic "APIs" [ref=e177]
+            - img [ref=e179]
+          - link "API" [ref=e181] [cursor=pointer]:
+            - generic "API" [ref=e182]
+            - img [ref=e184]
+          - link "Test" [ref=e186] [cursor=pointer]:
+            - generic "Test" [ref=e187]
+            - img [ref=e189]
+          - link "Testing" [ref=e191] [cursor=pointer]:
+            - generic "Testing" [ref=e192]
+            - img [ref=e194]
+          - link "Mock Exam Questions" [ref=e196] [cursor=pointer]:
+            - generic "Mock Exam Questions" [ref=e197]
+            - img [ref=e199]
+  - contentinfo [ref=e201]:
+    - generic [ref=e206]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e207]
+      - paragraph [ref=e208]:
+        - text: "Version: e64cd80e | Copyright"
+        - link "Expand Testing" [ref=e209] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2026"
+  - img [ref=e211] [cursor=pointer]
+  - insertion [ref=e213]:
+    - iframe [ref=e216]:
+      - iframe [ref=f26e1]:
+        - generic [ref=f27e2]:
+          - link "Advertisement" [ref=f27e4] [cursor=pointer]:
+            - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsu7_cAuqGSyJZ2BSiRTDgYfHiySP1gSLAtgo9KdfAtmrrpI_eFotfYz48oRkXyxmQrOk16kJ-3m0SuohHvvEhcyVz-lyRqC4y5MbEH6jp4lx69lH9P5ESGW7czueHkVZVyo0sdl8D3tWRYiFgAT05yYEaT7lYiBM1i1ODPZqGLc5dt4e_ezvm1oUmM1GhK6SRUGtAmVvmV7XLRqjsM5gSJnzoqKJo3I_OaT-p5sw91Uz5oREK0q2DN_Nmj6DbIPqaKS3HVH7Fq5JkVqmakBdfhCN1pYUH2sI8aeFnY765GxoeNjZveF29SmZqfe_l_-1Euh2HurnAHfiZpuI_pzr6GzVQuTGgpgWhhbhMZPlJjGnoHLEVL9OeaHNWE51lfLAU1s61agi2SPBFcI6ZaXn0Hby24lSpzpezjoHxa2YTqc0Jpbl5DrUvPEnFUPFxt1EWfArGQUwqZ7ii8UZLtp6lkdSnRXUkCPYSdZOvvahvgvRQ5kqm9N4WpcqrR2vAh_LBfkw_mRpBYH9wf9Wm835jOR3n-JoI3BkLDyd0dEoxuyUAHtF3Hb9R7WwNxN2GvEnfTLwdTjcz2nejYLTcxPVyM9sC2CSILljGNyHhnK4IqIjGyXxACDa2ah5sehDlXzPCLTl9AmJMWA3pqHeyjTSfx7bjxtrkm1mrun9zI7jfNIjmgPpw38QQDA9jkpkOepquQFv8BLDkoU9bRBkW-ncsoLnC4_AitLH1InyZieYbntM1z1kn70w9G_ctByVk45uORMESnkmaDmiClQvDiJEyk1sI6dulDsSqZoK9729ywLaPyzz6mx1sMqc6VyqyuA-lHqRDKHaqrR9S-M_ZkKuIOcW9qqdBm4cH3A3UlopmsZujgIdHS39rooZp-RdYehHm_ezQ4K20eQjDTb8ZGjWBSxbZLbB0JyGIoZWKdyUfip6Y_xRz-uw6PGsRCo8f0dFwu0_4tBwRUAAY9nAZ8DVCukK4dqdslXUaiQESf0EES2QX7-qpqTWzZ97lYpQR4WqWA07OizMBIkemX8Gpi4ySV-MquhXTUCRnkdVfDYq5kPqD1RXBfnXaBHCsU9j5xoiMm5AVOmKJFxiRpDezez5vsLx_pH3nrl3FaqsVlWXA2RytmoUq_YkeSTBBACmOuNqxTv0QzGu8KaoQItxftfYMqOk_3Smirqxed9pkTJ41NLib0DMh8B4v1NJcgJLGShy1JIlwy_j0BOqmmqcSjyXO0vDz2EB6Y0kqLy3PDdFXNTqBbtL-IOIvIlpLcTCtf8vEqLTjCC1s-wTG694hMhWe8VjmiWwCC06_E1wrupDCyiTqtHsjt60bwCpNeo7ecfG_1R4rXl18queYhwvZRNdn2oqofLugZNRiWTcQu4ysHeZRlSyFjuwwAXm9OgDhLkNpLoYLyr4Tjx_Kh6bod1kMECQMaPO-CYNaGz57ndGi3SugA_zRlf_a4tzGDG7HCo0xHfqro76U5S3SAtLkdABpiBY8qwvu2KtSp-aWcMnLyUloElPFiOZA5ChCOfIYYUkwahL4hgFXJste_iKuBnYDSWncG3c2l3vzweV1zWdXlEnTtP2Ui0S_38dYI8hxufzHf5VcTQb2CWEQsH5VykXzetiBc2hnuZx7gh8oBJw-IxHSqCn882HcPtNrOFYzdopUKW2mx8JezGqCDBkJIlRwu8DBuRqrEwgrpN7dp3DmX5_lJMgWZl88pkuFD1-uAMbrgr9ehAjYbIP3sMY53zCr4GLPp0chIq_BQLZoSKX-rknvJupaT3dMRT8DJp2GmSxhOROW064d8Tm7fqnsfX3KugevtYkXryVtLRul4tlfTvgoUq6s3SOnazbLW_N1lU5xSpSQmDXtCF4pYjZYGQrJv9RLha7jG3yZtY1zpd_xIE&sai=AMfl-YSv_wKTxXieKWhA4HL4Hjhp6msDUPlPca_elYyCA9JwXRUcssdLFSf93lmMA8lSt4ORm1tBxUZJMymEEjQIqObYQkSHOnVvYTkExMTtXWRtz8hAu8CavH8PiIikemGR8q_gJVhLjy06fkgxpw7RUs12rzJwyFRxzEcMhRtixd6tYHri4aJc-W-64gaozlgm1uvlY-WvUM9-YN4IWqDFxh1zLGUBUrZ4s156W7ldSP5SvwMRp0MJle6GCWs__kjPdy29gF9HHTQEi0eHIDaPHhIb_nj5nvgQhEfireL4D6XkAGuhdPt7-ruW-puSJWEjt4nbydVq4UfEMdx4Mu3QgeLcropm7xiRsGPsV6PV9FFtRIEtB48jJ3qir_bTHyx0wKByWFINDKv1GlXOOJZbXBExRWwYscpWB0k0hT9D8wyomQve4blyDbXRuuLaIzkR9RK5a1B3QghR1JGP_0WUWvvNnp0tv6QSZPjRpspht0XDIc_BdNmYUEDABBm0l8-QnhP_hDPgmRkSPZ6F9QQkypCa5XGeJfe1ArPDBgxuH48pfuldAfcNwyS5dPM2XG43cXoQHNL943b-_rw5BAAnE98xhmZfI-ClCwcxs4zf0H6t2gWODUBv7-2KQNf718iEh3Y&sig=Cg0ArKJSzJIGmL3n8DlZ&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9icml0aXNoY291bmNpbC5vcmcubnA&urlfix=1&adurl=https://www.britishcouncil.org.np/exam/ielts/success-with-Ielts%3Futm_source%3Ddv360%26utm_medium%3Ddisplay%26utm_campaign%3Dexams-all-all-sa-np-dv360-pt-awareness-think_migrant_can-display-728x90%26utm_content%3Dcontent%26utm_term%3Dterm%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23317705889
+            - img "Advertisement" [ref=f27e5]
+          - generic [ref=f27e6]:
+            - generic:
+              - img [ref=f27e10] [cursor=pointer]
+              - button [ref=f27e12] [cursor=pointer]:
+                - img [ref=f27e13]
+```
